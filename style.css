@@ -5,7 +5,7 @@ body {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  color: #000000;
+  color: #f60707;
 }
 
 .container-aplicativo {
@@ -35,8 +35,8 @@ button {
   font-size: 1.5rem;
 }
 
-
-#anterior, #proximo {
+#anterior,
+#proximo {
   font-size: 3rem;
 }
 
